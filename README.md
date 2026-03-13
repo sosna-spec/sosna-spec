@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Sosna 
 
-<!--
-**sosna-spec/sosna-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder & Lead Systems Architect | CS Student 
 
-Here are some ideas to get you started:
+I am a technical founder focused on bridging the gap between industrial operations and financial transparency. Currently, I am building **Silet**, a FinTech solution designed to solve the "Anonymous Payment" challenge in industrial supply chains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects in Development
+* **Silet:** A multi-layered Industrial Financial Control system.
+  * *Status:* Proprietary development (Private Repo).
+  * *Core Tech:* Python, SQL, Dual-Verification Engines.
+
+### 🛠️ Technical Focus
+* **Languages:** Python, Java, SQL.
+* **Systems:** FinTech Architecture, BI Dashboards, Risk Management Protocols.
+* **Global Interests:** Venture Capital, Supply Chain Finance, and Chinese Tech Ecosystems (HSK 1 Certified).
+
+### 📫 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/sosna-woldu-a827422a1)
+  
